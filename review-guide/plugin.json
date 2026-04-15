@@ -2,5 +2,5 @@
   "name": "review-guide",
   "version": "1.0.0",
   "description": "Generate human-friendly review guides with recommended reading order",
-  "skills": ["SKILL.md"]
+  "skills": "./skills/"
 }
