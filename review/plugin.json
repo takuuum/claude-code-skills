@@ -1,0 +1,6 @@
+{
+  "name": "review",
+  "version": "1.0.0",
+  "description": "Cross-review code with Codex MCP and Claude — mutual critique by default",
+  "skills": ["SKILL.md"]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "claude-code-skills",
+  "description": "Claude Code skills for PR creation, code review, and review guide generation",
+  "owner": "takuuum",
+  "plugins": [
+    {
+      "name": "pr",
+      "description": "Create GitHub Draft PRs with auto-generated title, body, and branch management",
+      "path": "./pr"
+    },
+    {
+      "name": "review",
+      "description": "Cross-review code with Codex MCP and Claude — mutual critique by default",
+      "path": "./review"
+    },
+    {
+      "name": "review-guide",
+      "description": "Generate human-friendly review guides with recommended reading order",
+      "path": "./review-guide"
+    }
+  ]
+}
